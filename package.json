@@ -19,7 +19,7 @@
     "test": "base test"
   },
   "dependencies": {
-    "expect": "^29.2.2",
+    "expect": "^28",
     "expect-mocha-image-snapshot": "^2.0.14",
     "expect-mocha-snapshot": "^2.1.5"
   },
