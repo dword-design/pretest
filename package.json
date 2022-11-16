@@ -24,7 +24,7 @@
     "expect-mocha-snapshot": "^2.1.5"
   },
   "devDependencies": {
-    "@dword-design/base": "^8.7.4"
+    "@dword-design/base": "^9.0.0"
   },
   "engines": {
     "node": ">=12"
