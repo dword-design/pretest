@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "expect": "^28",
-    "expect-mocha-image-snapshot": "^2.0.14",
+    "expect-mocha-image-snapshot": "^3.0.0",
     "expect-mocha-snapshot": "^2.1.5"
   },
   "devDependencies": {

@@ -4822,6 +4822,14 @@ expect-mocha-image-snapshot@^2.0.14:
     jest-image-snapshot "^4.4.0"
     jest-snapshot "^27.0.0"
 
+expect-mocha-image-snapshot@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/expect-mocha-image-snapshot/-/expect-mocha-image-snapshot-3.0.0.tgz#9848e0e189dc5219d050973b205c77156964600e"
+  integrity sha512-nxSXMOG+VWcoAYZohuJOaIhdk5ZmGuOtlalJXjtvvyK2WH+L9g8yaILI1sY2XXU9gxujH0wV655YMuOQdTDejw==
+  dependencies:
+    jest-image-snapshot "^4.4.0"
+    jest-snapshot "^27.0.0"
+
 expect-mocha-snapshot@^2.1.5:
   version "2.1.5"
   resolved "https://registry.yarnpkg.com/expect-mocha-snapshot/-/expect-mocha-snapshot-2.1.5.tgz#6e056ac12d2b6da17ef45f970d8e6fbfc379042e"
