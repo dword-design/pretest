@@ -1,4 +1,4 @@
-import expect from 'expect'
+import { expect } from 'expect'
 import { toMatchImageSnapshot } from 'expect-mocha-image-snapshot'
 import toMatchSnapshot from 'expect-mocha-snapshot'
 
