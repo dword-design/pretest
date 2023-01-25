@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/dword-design/pretest/compare/v1.0.1...v1.0.2) (2023-01-25)
+
+
+### Bug Fixes
+
+* lock file maintenance ([#10](https://github.com/dword-design/pretest/issues/10)) ([14d5dcd](https://github.com/dword-design/pretest/commit/14d5dcd7c8166bbd84bf68693ce897754eb71407))
+
 ## [1.0.1](https://github.com/dword-design/pretest/compare/v1.0.0...v1.0.1) (2022-12-03)
 
 
