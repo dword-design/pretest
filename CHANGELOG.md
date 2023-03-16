@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/dword-design/pretest/compare/v1.0.3...v1.0.4) (2023-03-16)
+
+
+### Bug Fixes
+
+* update dependency execa to v7.1.1 ([d845db8](https://github.com/dword-design/pretest/commit/d845db8c1bed68c516bf4709cc3baea123b351ea))
+
 ## [1.0.3](https://github.com/dword-design/pretest/compare/v1.0.2...v1.0.3) (2023-02-15)
 
 
