@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/dword-design/pretest/compare/v1.0.5...v1.0.6) (2023-03-19)
+
+
+### Bug Fixes
+
+* update dependency @dword-design/tester-plugin-tmp-dir to v2.1.15 ([fa082d3](https://github.com/dword-design/pretest/commit/fa082d3dfca04f2d017732d6b50f50be9b1485f2))
+
 ## [1.0.5](https://github.com/dword-design/pretest/compare/v1.0.4...v1.0.5) (2023-03-18)
 
 
