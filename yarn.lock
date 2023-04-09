@@ -4830,9 +4830,9 @@ expand-tilde@^2.0.0, expand-tilde@^2.0.2:
     homedir-polyfill "^1.0.1"
 
 expect-mocha-image-snapshot@^3.0.1:
-  version "3.0.8"
-  resolved "https://registry.yarnpkg.com/expect-mocha-image-snapshot/-/expect-mocha-image-snapshot-3.0.8.tgz#21913b8fd07187d62dfe8f97a7524b6556b6f4ee"
-  integrity sha512-ZkluuTTPQdT1SQd6BAUTFU+NBCkX3WOSuIgzjZh75R4gQnoXlQa85HAIcqBDTumLaEFHhttGF6lT+CY0/3w7WQ==
+  version "3.0.9"
+  resolved "https://registry.yarnpkg.com/expect-mocha-image-snapshot/-/expect-mocha-image-snapshot-3.0.9.tgz#baf684d076da88285a729b7e310168f3616bfb8b"
+  integrity sha512-PBfn3qoU757eF5lcv8ZHwEOE09Jnf9WSKxa0pHx53/Odi1fpsCc3gTI3Fso0mE7OLqzcX7HasH1grpIM0BJ3lg==
   dependencies:
     jest-image-snapshot "^4.4.0"
     jest-snapshot "^27.0.0"
