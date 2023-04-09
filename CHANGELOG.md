@@ -1,3 +1,10 @@
+## [1.0.8](https://github.com/dword-design/pretest/compare/v1.0.7...v1.0.8) (2023-04-09)
+
+
+### Bug Fixes
+
+* update dependency @dword-design/functions to v4.1.7 ([0c003c8](https://github.com/dword-design/pretest/commit/0c003c869de864033e6b71dcc534ad29305b5583))
+
 ## [1.0.7](https://github.com/dword-design/pretest/compare/v1.0.6...v1.0.7) (2023-04-09)
 
 
