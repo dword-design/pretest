@@ -1,3 +1,12 @@
+## [1.0.7](https://github.com/dword-design/pretest/compare/v1.0.6...v1.0.7) (2023-04-09)
+
+
+### Bug Fixes
+
+* lock file maintenance ([#13](https://github.com/dword-design/pretest/issues/13)) ([d79d1d5](https://github.com/dword-design/pretest/commit/d79d1d52681b68589101af605b35f59a32c6253c))
+* update dependency expect-mocha-image-snapshot to v3.0.5 ([70dee72](https://github.com/dword-design/pretest/commit/70dee72a16b312a6ebae7eca60282abe1707ee39))
+* update dependency expect-mocha-image-snapshot to v3.0.9 ([c54df11](https://github.com/dword-design/pretest/commit/c54df11d85e92a4f496d2facca4278b1ce2ccb41))
+
 ## [1.0.6](https://github.com/dword-design/pretest/compare/v1.0.5...v1.0.6) (2023-03-19)
 
 
