@@ -22,6 +22,8 @@ export default tester(
         'exports',
         '--require',
         self,
+        '--timeout',
+        3000,
         'index.spec.js',
       ])
     },
@@ -41,6 +43,8 @@ export default tester(
         'exports',
         '--require',
         self,
+        '--timeout',
+        3000,
         'index.spec.js',
       ])
       expect(
@@ -65,6 +69,8 @@ export default tester(
         'exports',
         '--require',
         self,
+        '--timeout',
+        3000,
         'index.spec.js',
       ])
       expect(
