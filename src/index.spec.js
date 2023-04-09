@@ -15,7 +15,7 @@ export default tester(
     expect: async () => {
       await fs.outputFile(
         'index.spec.js',
-        'export default { works: () => expect(true).toEqual(true) }'
+        'export default { works: () => expect(true).toEqual(true) }',
       )
       await execa('mocha', [
         '--ui',
@@ -34,7 +34,7 @@ export default tester(
               expect(true).toMatchImageSnapshot(this)
             },
           }
-        `
+        `,
       )
       await execa('mocha', [
         '--ui',
@@ -45,8 +45,8 @@ export default tester(
       ])
       expect(
         await fs.exists(
-          P.join('__image_snapshots__', 'index-spec-js-works-1-snap.png')
-        )
+          P.join('__image_snapshots__', 'index-spec-js-works-1-snap.png'),
+        ),
       ).toBe(true)
     },
     toMatchSnapshot: async () => {
@@ -58,7 +58,7 @@ export default tester(
               expect(true).toMatchSnapshot(this)
             },
           }
-        `
+        `,
       )
       await execa('mocha', [
         '--ui',
@@ -68,7 +68,10 @@ export default tester(
         'index.spec.js',
       ])
       expect(
-        await fs.readFile(P.join('__snapshots__', 'index.spec.js.snap'), 'utf8')
+        await fs.readFile(
+          P.join('__snapshots__', 'index.spec.js.snap'),
+          'utf8',
+        ),
       ).toEqual(endent`
         // Jest Snapshot v1, https://goo.gl/fbAQLP
 
@@ -77,5 +80,5 @@ export default tester(
       `)
     },
   },
-  [testerPluginTmpDir()]
+  [testerPluginTmpDir()],
 )
