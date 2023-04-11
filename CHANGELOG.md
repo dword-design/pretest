@@ -1,3 +1,10 @@
+## [1.0.13](https://github.com/dword-design/pretest/compare/v1.0.12...v1.0.13) (2023-04-11)
+
+
+### Bug Fixes
+
+* update dependency @dword-design/tester to v2.0.18 ([c6446d7](https://github.com/dword-design/pretest/commit/c6446d7a2bbb63ff60151fdc0356ac2b6f62affc))
+
 ## [1.0.12](https://github.com/dword-design/pretest/compare/v1.0.11...v1.0.12) (2023-04-10)
 
 
