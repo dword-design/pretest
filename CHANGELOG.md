@@ -1,3 +1,10 @@
+## [1.0.14](https://github.com/dword-design/pretest/compare/v1.0.13...v1.0.14) (2023-04-11)
+
+
+### Bug Fixes
+
+* update dependency expect-mocha-image-snapshot to v3.0.12 ([cbbf4d6](https://github.com/dword-design/pretest/commit/cbbf4d62cd7e63fcaceae7517797dcfc37e4c941))
+
 ## [1.0.13](https://github.com/dword-design/pretest/compare/v1.0.12...v1.0.13) (2023-04-11)
 
 
