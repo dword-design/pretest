@@ -4159,9 +4159,9 @@ duplexer2@~0.1.0:
     readable-stream "^2.0.2"
 
 electron-to-chromium@^1.4.284:
-  version "1.4.357"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.357.tgz#ad02bab69e696e9a122788da4460c86166a98a01"
-  integrity sha512-UTkCbNTAcGXABmEnQrGcW4m3cG6fcyBfD4KDF0iyEAlbrGZiY9dmslyDAGOD1Kr5biN2F743Y30aRCOtau35Vw==
+  version "1.4.358"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.358.tgz#301afde62c1bbe36aeec3155b11f7db1c5b01c78"
+  integrity sha512-dbqpWy662dGVwq27q8i6+t5FPcQiFPs/VExXJ+/T9Xp9KUV0b5bvG+B/i07FNNr7PgcN3GhZQCZoYJ9EUfnIOg==
 
 emoji-regex@^8.0.0:
   version "8.0.0"
@@ -4833,9 +4833,9 @@ expand-tilde@^2.0.0, expand-tilde@^2.0.2:
     homedir-polyfill "^1.0.1"
 
 expect-mocha-image-snapshot@^3.0.1:
-  version "3.0.12"
-  resolved "https://registry.yarnpkg.com/expect-mocha-image-snapshot/-/expect-mocha-image-snapshot-3.0.12.tgz#bf3918b11599b5a94971f45801050708812446a6"
-  integrity sha512-WNHxUpWpVRNkDAmlWmMRZIimRh99/RPrT8GFvesPXtkhcH78/LS1U7wDZh1p2TOEplKjIdxDbunfkiF4IBaOtA==
+  version "3.0.13"
+  resolved "https://registry.yarnpkg.com/expect-mocha-image-snapshot/-/expect-mocha-image-snapshot-3.0.13.tgz#9a34c7ca69b7b41bc592b1187eaf4c893014bba9"
+  integrity sha512-9BIU8wW0rXLKFQyWk4KRK6A6mNm9yC1aJHCI0/VjP8QpiAy58JuE1d84XCLzDkXDImGA5xf65uWBMclmjXdD7Q==
   dependencies:
     jest-image-snapshot "^4.4.0"
     jest-snapshot "^27.0.0"
